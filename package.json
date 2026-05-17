@@ -1,0 +1,10 @@
+{
+  "name": "erp-manufacturing-foundation",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "lint": "echo 'configure eslint'",
+    "typecheck": "echo 'configure tsc --noEmit'"
+  }
+}
